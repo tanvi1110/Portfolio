@@ -10,7 +10,7 @@ function About() {
          Hola , This is<br /><span className='info-name'>Tanvi</span>.<br />   Love to dive deep into ocean of Development. 
        </div>
        <div className='about-photo'>
-         <img src ={require('../../../assets/photo.png')} className='picture'/>
+         <img alt='' src ={require('../../../assets/photo.png')} className='picture'/>
        </div>
     </div>
      <SocialContact />

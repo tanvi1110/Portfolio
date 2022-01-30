@@ -8,7 +8,7 @@ function SocialContact() {
           return(
             <a href={item.link}>
               <div className='social-icon-div'>
-                <img src ={item.icon} className='social-icon'/>
+                <img alt='' src ={item.icon} className='social-icon'/>
               </div>
             </a>
           )
