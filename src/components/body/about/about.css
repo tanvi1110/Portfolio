@@ -11,10 +11,10 @@
 }
 .about-info{
     font-size: 24px;
-    color: bisque;
+    color: rgb(243, 247, 243);
 }
 .info-name{
-    color: rgb(59, 216, 236);
+    color: rgb(7, 9, 131);
 }
 @media only screen and (max-width: 720px){
     .about-top{
