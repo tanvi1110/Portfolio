@@ -6,17 +6,17 @@ export const SocialData = [
     },
     {
         platform: "Twitter",
-        link:"https://mobile.twitter.com/TanviSh70149225",
+        link:"https://twitter.com/TanviSh70149225",
         icon: require('../../assets/icons/twitter.png'),
     },
     {
         platform: "Facebook",
-        link:"https://kj   instagram.com/tanvi_1304/ ",
+        link:"https://www.facebook.com/profile.php?id=100054425911254",
         icon: require('../../assets/icons/facebook.png'),
     },
     {
         platform: "Linkedin",
-        link:"https://www.linkedin.com/mwlite/in/tanvi-shah-4b2159225",
+        link:"https://www.linkedin.com/in/tanvi-shah-4b2159225/",
         icon: require('../../assets/icons/linkedin.png'),
     },
     {
@@ -25,3 +25,9 @@ export const SocialData = [
         icon: require('../../assets/icons/github.png'),
     },
 ];
+
+
+
+
+
+
