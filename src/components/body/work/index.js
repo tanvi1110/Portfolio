@@ -6,13 +6,13 @@ function Work() {
   const data = WorkData;
   return (
   <div className='work'>
-    {/* <Seperator /> */}
-    <label className='section-title'></label>
+     {/* <Seperator />  */}
+    {/* <label className='section-title'></label>
    <div className='work-list'>
      {data.map((item)=>{
        return
-     })}
-   </div>
+     })} */}
+   {/* </div> */}
   </div>
   );
 }
