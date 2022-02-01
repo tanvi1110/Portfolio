@@ -62,6 +62,13 @@
         width: 70%;
     }
     .project-card{
-        flex-direction: column;
+        flex-direction: column-reverse;
+    }
+    .project-info{
+        margin-left: 0px ;
+        margin-top: 12px;
+    }
+    .project-tags{
+        max-width: 100%;
     }
 }
